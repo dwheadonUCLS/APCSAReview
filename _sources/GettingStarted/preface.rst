@@ -8,10 +8,7 @@ Preface
 ..	index::
 	single: license
 	
-I, Barbara Ericson, a senior research scientist at Georgia Tech published this book using a modified BSD license to
-encourage you to use it, change it, and modify it for your own purposes.
-I would appreciate knowing what you think if you do use this book, and I
-would love to see any modifications or additions you make.
+I, Dan Wheadon, am just tyring to edit this thing.
 
 About the Exam
 ----------------
